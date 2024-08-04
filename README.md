@@ -19,7 +19,7 @@
 ```
 Here are my personal infomation:
 
-Blog: https://aurora0x27@github.io
+Blog: https://aurora0x27.github.io
 
 Mail: qingfengzl0831@163.com
 ```
