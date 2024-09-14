@@ -14,7 +14,9 @@
 
 - I mainly use C/C++ and Python.
 
-- BTW, I use ArchLinux.
+- BTW, I use Arch.
+
+- Currently working on: [qqmusic-cli](https://github.com/aurora0x27/qqmusic-cli)
 
 ```
 Here are my personal infomation:
