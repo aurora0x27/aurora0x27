@@ -16,15 +16,9 @@
 
 - BTW, I use Arch.
 
-- Currently working on: [qqmusic-cli](https://github.com/aurora0x27/qqmusic-cli)
+- Currently working on: [qqmusic-cli](https://github.com/aurora0x27/qqmusic-cli) and [qqmusic-api-cxx](https://github.com/aurora0x27/qqmusic-api-cxx)
 
-```
-Here are my personal infomation:
-
-Blog: https://aurora0x27.github.io
-
-Mail: qingfengzl0831@163.com
-```
+- Come and see [my blog](https://aurora0x27.github.io)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
