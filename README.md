@@ -1,7 +1,7 @@
 <h1 align="center">清风之恋の小窝</h1>
 
 <div align=center>
-  <img width=128 src="img/nachoneko.png" alt="nachoneko">
+  <img width=128 src="img/matsuri.jpg" alt="nachoneko">
 </div>
 
 <div align=center>
