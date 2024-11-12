@@ -8,13 +8,13 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=66CCFF&center=true&vCenter=true&multiline=true&width=520&lines=Nya~%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85++Welcome+to+my+personal+profile" alt="Typing SVG" /></a>
 </div>
 
-- Currently learning Web Programming and Multi Media.
+- Currently learning PWN and Modern C++.
 
-- I'm interested in Linux and Game Developing. ^_^
+- I'm interested in Linux, Reverse and Game Developing. ^_^
 
 - I mainly use C/C++ and Python.
 
-- BTW, I use Arch.
+- ArchLinux
 
 - Currently working on: [qqmusic-cli](https://github.com/aurora0x27/qqmusic-cli) and [qqmusic-api-cxx](https://github.com/aurora0x27/qqmusic-api-cxx)
 
