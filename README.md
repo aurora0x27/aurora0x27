@@ -20,6 +20,8 @@
 
 - Come and see [my blog](https://aurora0x27.github.io)
 
+- **Not Opted to Hire**
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
