@@ -22,6 +22,8 @@
 
 - **Not Opted to Hire**
 
+![Aurora0x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true)
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
