@@ -8,19 +8,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=66CCFF&center=true&vCenter=true&multiline=true&width=520&lines=Nya~%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85++Welcome+to+my+personal+profile" alt="Typing SVG" /></a>
 </div>
 
-- Currently learning PWN and Modern C++.
+- Currently learning Rust and Modern C++.
 
-- I'm interested in Linux, Reverse and Game Developing. ^_^
+- I'm interested in Linux, Reverse and Compiler. ^_^
 
-- I mainly use C/C++ and Python.
+- I mainly use C/C++ and Rust.
 
-- ArchLinux
+- Like ArchLinux
 
-- Currently working on: [qqmusic-cli](https://github.com/aurora0x27/qqmusic-cli) and [qqmusic-api-cxx](https://github.com/aurora0x27/qqmusic-api-cxx)
+- Currently working on: [clice](https://github.com/clice-project/clice)
 
 - Come and see [my blog](https://aurora0x27.github.io)
-
-- **Not Opted to Hire**
 
 ![Aurora0x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true)
 
