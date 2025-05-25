@@ -1,4 +1,4 @@
-<h1 align="center">清风之恋の小窝</h1>
+<h1 align="center">清風之戀の小窩</h1>
 
 <div align=center>
   <img width=128 src="img/matsuri.jpg" alt="matsuri">
