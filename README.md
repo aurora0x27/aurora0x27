@@ -23,11 +23,7 @@
 ![Aurora0x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true)
 
 <!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora0x27&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aurora0x27&theme=tokyonight&hide_border=true)
--->
 
 [![wakatime](https://wakatime.com/badge/user/2b118c24-f23e-42ec-a9ac-d62b0ce827a9.svg)](https://wakatime.com/@2b118c24-f23e-42ec-a9ac-d62b0ce827a9)
+-->
