@@ -1,29 +1,66 @@
-<h1 align="center">清風之戀の小窩</h1>
+ <!-- Profile README -->
 
-<div align=center>
-  <img width=128 src="img/matsuri.jpg" alt="matsuri">
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/user-attachments/assets/b8270bcc-5804-4824-824a-534f2594d872"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/user-attachments/assets/5f0c4aaf-c0ac-4941-b065-893bc0dfe396"
+    >
+    <img
+      src="https://github.com/user-attachments/assets/b8270bcc-5804-4824-824a-534f2594d872"
+      alt="Banner"
+      width="80%"
+    >
+  </picture>
 </div>
 
-<div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=66CCFF&center=true&vCenter=true&multiline=true&width=520&lines=Nya~%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85++Welcome+to+my+personal+profile" alt="Typing SVG" /></a>
+<div align="center">
+  <img width="128" src="img/matsuri.jpg" alt="matsuri">
 </div>
 
-- Currently learning Rust and Modern C++.
+<div align="center">
+  &gt; <i><b>You can call me either aurora0x27 / qingfengzl0831 / 清風之戀</b></i> &lt;
+</div>
 
-- I'm interested in Linux, Reverse and Compiler. ^_^
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7910fd01-aa50-420a-b4e6-d534c795ccc2" alt="aurora0x27's GitHub stats">
+</div>
 
-- I mainly use C/C++ and Rust.
+<hr>
 
-- Like ArchLinux
+<div align="right">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=aurora0x27&amp;theme=catppuccin_mocha"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=aurora0x27&amp;theme=vue"
+    >
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=aurora0x27&amp;theme=catppuccin_mocha"
+      alt="GitHub Stats"
+      align="right"
+    >
+  </picture>
+</div>
 
-- Currently working on: [clice](https://github.com/clice-project/clice)
+<div>
+  <ul>
+    <li>Interested in <b>Linux</b>, <b>Cyber Security</b> and <b>Infrastructure</b>.</li>
+    <li>Mainly use <b>C/C++</b>, <b>Python</b>, <b>Lua</b> and <b>Rust</b>.</li>
+    <li>Using ArchLinux, and love it very much. It's part of my daily life <code>d(d`^`)</code>.</li>
+    <li>Currently learning <b>Kernel Security</b>, research on <b>eBPF subsystem</b>.</li>
+    <li>Maybe interested in <b>Kernel PWN</b>, <b>DBMS</b> and <b>Linux Desktops especially WMs</b>.</li>
+    <li>Come and see <a href="https://aurora0x27.github.io">my blog</a>!</li>
+  </ul>
+</div>
 
-- Come and see [my blog](https://aurora0x27.github.io)
+<hr>
 
-![Aurora0x27's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurora0x27&theme=tokyonight&show_icons=true)
-
-<!--
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aurora0x27&theme=tokyonight&hide_border=true)
-
-[![wakatime](https://wakatime.com/badge/user/2b118c24-f23e-42ec-a9ac-d62b0ce827a9.svg)](https://wakatime.com/@2b118c24-f23e-42ec-a9ac-d62b0ce827a9)
--->
+<!-- vim:set ft=markdown sw=2 ts=2 sts=2: -->
